@@ -1,6 +1,5 @@
 # Esper-Project <br />
 
-The Esper Project <br />
 Andrew Vu <br />
 https://a-vires.github.io/vires.github.io/ <br />
 https://github.com/a-vires<br />
