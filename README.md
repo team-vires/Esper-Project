@@ -7,7 +7,7 @@ https://github.com/a-vires<br />
 Nimo Sheikh https://nimosheikh.github.io/ <br />
 https://github.com/nimosheikh <br />
 
-Wayne Lightfoot https://lightfoot610.github.io/ <br />
+Wayne Lightfoot https://lightfoot610.github.io/MyProfile/ <br />
 https://github.com/lightfoot610 <br />
 
 Chris Larder https://chrislarderstudent.github.io/ <br />
